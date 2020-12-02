@@ -56,3 +56,20 @@ function promptUser() {
     },
   ]);
 }
+
+// Async function using util
+async function init() {
+    try {
+        // ask questions and generate response
+        const answers = await promptUser();
+        const generateContent = generateReadme(answers);
+        // write new read.md to dist directory
+        await writeFileAsync('./distr/README.md', generateContent);
+        console.log('✔️  Successfully wrote to README.md');
+    }   catch(err) {
+            console.log(err);
+        }
+    }
+}
+
+init();
