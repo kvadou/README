@@ -1,10 +1,10 @@
 
-<h1 align="center">readme 👋</h1>
+<h1 align="center">README Generator  👋</h1>
 
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
 ## Description
-🔍 command line readme generator
+🔍 readme generator template
 
 ## Table of Contents
 - [Description](#description)
@@ -16,10 +16,10 @@
 - [Questions](#questions)
 
 ## Installation
-💾 npm init, npm install inquirer
+💾 npm i, npm inquirer
 
 ## Usage
-💻 help developers make a good readme
+💻 easy readme template
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
@@ -30,10 +30,10 @@ This application is covered by the MIT license.
 👪 Doug
 
 ## Tests
-✏️ undefined
+✏️ yes
 
 ## Questions
-✋ Reach out!<br />
+✋ reach out to doug<br />
 <br />
 :octocat: Find me on GitHub: [kvadou](https://github.com/kvadou)<br />
 <br />
