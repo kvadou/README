@@ -13,8 +13,6 @@ The full movie file showing functionality of the application can be found [here]
 ## Table of Contents
 
 - [Description](#description)
-- [User Story](#user-story)
-- [Acceptance Criteria](#acceptance-criteria)
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -39,4 +37,4 @@ Run the following command at the root of your project and answer the prompted qu
 
 ## Questions
 
-✉️ Contact me with any questions: [email](mailto:dougkvamme@gmail.com) , [GitHub](https://github.com/kvadou)<br />
+Contact me with any questions: [email](mailto:dougkvamme@gmail.com) , [GitHub](https://github.com/kvadou)<br />
