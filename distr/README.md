@@ -1,10 +1,10 @@
 
-<h1 align="center">README Generator  👋</h1>
+<h1 align="center">Readme generator 👋</h1>
 
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
+![badge](https://img.shields.io/badge/license-Apache-brightgreen)<br />
 
 ## Description
-🔍 readme generator template
+🔍 
 
 ## Table of Contents
 - [Description](#description)
@@ -16,28 +16,28 @@
 - [Questions](#questions)
 
 ## Installation
-💾 npm i, npm inquirer
+💾 
 
 ## Usage
-💻 easy readme template
+💻 
 
 ## License
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+![badge](https://img.shields.io/badge/license-Apache-brightgreen)
 <br />
-This application is covered by the MIT license. 
+This application is covered by the Apache license. 
 
 ## Contributing
-👪 Doug
+👪 
 
 ## Tests
-✏️ yes
+✏️ 
 
 ## Questions
-✋ reach out to doug<br />
+✋ <br />
 <br />
-:octocat: Find me on GitHub: [kvadou](https://github.com/kvadou)<br />
+:octocat: Find me on GitHub: [](https://github.com/)<br />
 <br />
-✉️ Email me with any questions: dougkvamme@gmail.com<br /><br />
+✉️ Email me with any questions: <br /><br />
 
 _This README was generated with ❤️ by [README-generator](https://github.com/kvadou/README) 🔥🔥🔥_
     
