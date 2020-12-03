@@ -4,7 +4,7 @@
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
 ## Description
-Built a command line application to accept user input and generate a professional REAME.md file
+Built a commdn line application to accept user input and generate a professional readme.md file
 
 ## Table of Contents
 - [Description](#description)
@@ -16,10 +16,10 @@ Built a command line application to accept user input and generate a professiona
 - [Questions](#questions)
 
 ## Installation
-npm intall inquirer
+npm install inquirer
 
 ## Usage
-Help developers create a professional README file with easy command line prompts 
+Help developers create a professional readme file with easy command line prompts
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
@@ -33,7 +33,7 @@ Doug Kvamme
 no
 
 ## Questions
-reach out to me!<br />
+Reach out!<br />
 <br />
 Find me on GitHub: [kvadou](https://github.com/kvadou) :octocat: <br />
 <br />
