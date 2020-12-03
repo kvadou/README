@@ -4,7 +4,7 @@
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
 ## Description
-Built a commdn line application to accept user input and generate a professional readme.md file
+Built a command line application with node.js to accept user input and generate a professional readme file
 
 ## Table of Contents
 - [Description](#description)
@@ -19,7 +19,7 @@ Built a commdn line application to accept user input and generate a professional
 npm install inquirer
 
 ## Usage
-Help developers create a professional readme file with easy command line prompts
+Help developers create a professional readme fil with easy command line prompts
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
